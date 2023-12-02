@@ -1,0 +1,84 @@
+*{/*selector universal*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; /*medida interna de la caja*/
+}
+body{
+    width:100%;
+    height:100vh;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(43, 226, 177);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 15px;
+    justify-content: space-between;
+    padding-right: 15px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(208, 74, 74);
+    gap: 15px;
+    }
+    li{
+        list-style: none;
+    }
+    
+    li:hover{
+        color: rgb(37, 176, 165);
+    }       
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgba(222, 103, 6, 0.77);
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border: 5px solid yellowgreen;
+    color: blue;
+}
+.caja-contenedor{
+    width: 100%;
+    background-color: blueviolet;
+    height: 100%;
+    padding: 20px;
+    
+
+}
+.carta{
+    width: 260px;
+    height: 400px;
+    background-color: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+    gap: 15px;
+}
+.carta-imagen{
+    width: 150px;
+    
+}
+.carta-descripcion{
+    text-align: center;
+
+}
+.carta-boton{
+    border: none;
+    padding: 10px 15px ;
+    background-color: brown;
+    color: wheat;
+    border-radius: 5px;
+}
+.carta-boton:hover{
+    background-color: rgb(108, 108, 199);
+}

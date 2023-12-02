@@ -1,0 +1,22 @@
+Posible nombre para el E-Commerce: 
+PlantHub404 //Plant por planta Hub por GitHub y 404 x el nombre del grupo
+
+Posibles slogans:
+_The roots always deploy
+//sinonimo a the flowers always blooms pero mezclado con programacion (root seria raiz que en programacion es como el usuario o carpeta principal, deploy seria desplegar que es como publicar el proyecto compleot) que a su vez la frase seria referencia a una cancion que dice "Do You Know Why The Flowers Never Blooms" pero no podemos decir que las flores no florecen en un ecommerc de venta de flores y  plantas asi que lo cambie a las flores siempre florecen para demostrar la calidad
+
+_All seeds have grown
+//referencia a una frase de una cancion que dice All Hope Is Gone
+
+_Give us a moment, let us change your greens. 
+_Give us a seed, and we'll change your scenes
+//referencia a una frase de una cancion que ses "Give me a moment and i will change your mind, 
+//give me a bullet and i will change your life"
+
+_Try to plant, except for the grant
+//no es refencia a ninguna lerta pero se me ocurrio debido a que te dice que intentes plantar pero no por una recompensa a su vez el try except es una sentencia de python y creo que tambien de otros lenguajes
+
+try 
+    codigo
+except
+    captura el error y hace algo al respecto
